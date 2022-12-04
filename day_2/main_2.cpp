@@ -9,14 +9,27 @@ int main(){
 
     std::string line;
 
-    int a;
-    int i;
-    int max = 0;
+    std::string param, pos, pass;
+    int score = 0;
     while (std::getline(infile, line))
     {
         std::istringstream iss(line);
-        iss >> a;
+        iss >> param >> pos >> pass;
+        std::cout << param << " " << pos << " " << pass << " ";
+        int i = param.find("-");
+        char c = pos[0];
+        int min = atoi(param.substr(0, i).c_str());
+        int max = atoi(param.substr(i+1, param.length()).c_str());
+        int count = 0;
+        std::cout << pass[min - 1] << " " << pass[max - 1] << "\n";
+        if (pass[min-1] == c && pass[max-1] != c){
+            score++;
+        }
+        else if (pass[max-1] == c && pass[min-1] != c){
+            score++;
+        }
     }
-    std::cout << "max [" << max << "]\n";
+    std::cout << "score " << score << std::endl;
     return (0);
 }
+
