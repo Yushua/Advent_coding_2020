@@ -1,2250 +1,1000 @@
-9609
-7601
-7142
-5278
-9374
-6815
-1050
-6329
-8016
-
-12477
-28601
-
-1056
-5037
-1660
-3786
-2611
-6689
-3159
-2973
-5286
-2401
-6231
-7460
-
-3689
-3909
-9254
-5704
-10307
-10173
-9336
-4586
-
-5476
-16022
-9109
-11504
-6746
-
-1006
-1685
-2688
-4776
-6234
-5807
-4943
-4944
-4982
-1731
-3196
-5573
-5269
-1266
-
-12097
-15573
-1113
-8920
-14145
-
-4723
-2428
-3864
-4657
-5046
-5135
-5104
-1867
-5130
-1751
-6029
-4551
-1924
-4998
-4255
-
-2706
-5595
-10508
-3676
-11580
-6061
-7902
-
-2523
-11236
-1915
-15774
-7639
-
-2996
-3656
-4491
-4493
-6136
-3112
-7342
-3600
-6111
-4229
-7548
-
-4200
-8635
-1003
-1223
-3096
-10734
-8319
-3772
-
-7063
-3538
-4856
-1250
-1917
-4852
-4792
-7407
-3413
-7326
-7378
-1778
-
-1659
-3390
-2802
-3226
-3993
-9583
-6504
-3296
-5998
-
-1800
-1144
-2569
-4426
-5871
-4988
-1309
-2330
-3236
-3217
-3778
-2636
-3116
-2300
-1428
-
-69249
-
-6905
-2506
-2429
-3904
-2960
-1420
-2687
-7150
-1368
-4253
-3584
-1302
-
-9585
-34214
-
-5442
-8217
-2320
-6864
-1354
-5791
-5492
-4979
-1760
-7753
-
-18036
-11876
-1936
-4605
-
-10819
-13733
-13726
-10233
-
-5450
-4315
-3008
-3419
-5434
-1601
-6834
-2144
-3943
-3573
-6366
-6680
-1197
-
-3681
-4233
-3461
-1646
-5161
-3542
-5489
-4635
-1776
-4811
-3026
-4858
-4207
-5716
-4751
-
-3271
-5205
-7916
-7618
-8354
-4445
-4604
-
-2489
-7439
-6911
-5378
-7363
-2207
-7303
-4757
-5989
-4902
-6889
-5074
-
-4451
-34499
-
-6519
-7439
-2225
-1237
-2167
-2041
-3403
-8289
-3545
-2936
-
-25613
-23988
-15999
-
-10278
-9240
-8736
-10445
-5005
-9339
-9059
-9198
-
-14821
-8000
-15113
-10430
-11981
-
-2745
-6427
-3564
-3822
-1674
-6615
-4817
-5026
-6243
-5295
-4027
-4861
-6554
-
-24901
-7628
-
-10299
-8153
-3359
-5982
-5207
-4491
-5267
-5364
-
-7962
-12190
-1998
-10722
-2890
-
-27425
-19199
-
-5347
-3738
-2833
-12747
-6505
-3476
-
-2360
-6688
-11640
-13899
-
-5152
-4272
-7284
-3491
-4225
-3271
-7751
-6376
-2695
-
-8227
-7171
-3366
-1663
-4466
-2444
-7239
-3673
-5321
-6363
-
-6362
-4237
-7358
-1723
-7514
-5741
-2621
-4413
-5502
-5875
-
-13451
-12610
-8672
-2841
-
-1956
-3310
-3011
-2938
-5046
-4571
-3326
-2013
-5980
-5145
-3226
-5073
-3676
-2763
-4542
-
-4200
-9203
-6238
-9501
-3972
-6776
-2730
-6126
-
-13151
-2622
-2592
-10013
-10227
-4677
-
-3151
-2107
-7564
-3219
-1353
-7924
-7287
-3273
-2117
-4211
-
-6914
-1354
-3517
-1835
-1694
-4044
-2569
-4755
-6720
-1104
-
-10704
-2576
-2773
-9002
-3321
-9443
-8346
-9054
-
-4584
-2075
-3303
-2156
-1250
-4717
-1391
-2977
-3845
-1433
-3112
-5675
-6058
-1451
-5500
-
-8712
-8235
-2732
-5337
-11076
-9434
-1593
-
-27831
-3385
-
-1497
-7378
-3442
-1957
-2620
-2208
-3808
-1793
-1306
-6721
-4098
-5050
-
-3197
-1377
-2289
-7534
-8484
-5831
-3671
-2524
-6756
-
-24827
-5119
-
-1701
-5156
-3625
-2469
-5728
-5698
-4538
-1505
-1475
-3934
-3758
-5405
-1549
-5019
-1433
-
-12606
-14593
-14761
-12375
-
-9284
-16208
-6022
-5550
-
-8956
-1473
-10077
-2220
-7314
-3561
-6013
-
-1064
-1538
-3292
-3854
-3882
-6008
-5364
-4326
-1958
-4712
-3389
-4496
-5501
-2181
-1666
-
-2424
-5342
-11963
-1108
-6698
-7440
-4334
-
-7167
-3677
-4923
-9204
-4469
-5934
-6071
-8355
-
-4457
-2779
-5014
-6156
-7431
-1879
-2349
-4038
-7353
-1453
-6980
-1890
-
-1348
-8892
-13667
-2877
-9049
-8967
-
-7904
-6871
-7301
-7952
-5953
-7562
-3289
-6654
-
-13903
-9705
-11858
-7619
-12963
-5629
-
-31307
-5533
-
-1431
-5521
-3430
-4972
-4077
-1771
-2134
-2614
-1464
-1882
-1471
-2024
-4789
-4419
-
-8927
-9768
-1070
-12640
-3597
-5034
-
-4369
-5821
-4181
-2802
-6503
-2530
-1530
-1047
-3537
-2732
-5169
-4156
-4348
-1831
-
-9491
-6837
-3855
-2320
-1689
-3393
-6974
-5192
-9255
-
-2791
-3416
-2183
-2919
-3732
-3010
-5213
-7927
-4855
-4468
-
-7089
-36535
-
-9669
-2139
-10069
-7918
-9942
-1446
-
-4381
-3053
-3216
-4395
-2710
-3329
-2837
-1395
-3310
-1598
-1620
-6310
-3405
-4005
-
-3639
-1485
-5221
-5767
-2415
-5401
-4011
-3377
-2977
-6529
-1921
-5012
-4426
-
-4202
-17425
-
-1350
-1077
-4747
-1735
-4362
-6110
-5006
-8519
-7785
-
-10393
-3532
-4113
-8856
-11626
-7552
-11220
-
-8925
-8081
-2340
-2296
-9558
-6452
-3604
-8601
-1958
-
-4519
-2675
-1343
-4853
-5372
-2362
-4274
-4636
-3144
-5231
-4867
-5533
-1505
-5978
-1649
-
-4955
-6133
-6469
-5120
-4257
-3936
-3661
-4995
-6040
-2616
-5863
-6886
-1653
-
-4106
-1467
-2641
-1772
-4588
-1750
-1333
-4312
-4852
-1508
-5620
-4535
-3888
-4007
-2194
-
-27508
-
-10203
-6474
-2054
-11285
-12800
-
-10249
-7004
-6396
-1990
-5883
-9275
-4687
-
-22359
-8260
-9536
-
-2657
-6895
-4538
-4635
-1259
-1819
-2679
-3703
-6127
-4197
-4009
-4652
-2708
-
-49278
-
-16243
-33427
-
-5219
-3052
-4510
-9946
-5429
-5163
-2653
-
-4676
-5247
-6267
-2648
-1257
-2335
-3737
-1443
-2726
-2361
-2134
-1952
-1021
-1753
-
-4671
-7281
-8217
-6170
-1182
-8778
-5289
-5035
-
-6067
-3461
-7448
-2117
-8702
-2849
-9659
-1410
-9402
-
-10607
-5652
-3127
-5594
-2423
-2591
-
-2138
-4007
-6383
-5597
-3074
-5811
-2178
-6220
-2212
-4271
-5410
-6677
-
-5313
-5507
-7753
-5492
-5041
-4967
-7644
-10538
-
-2062
-7568
-1439
-1621
-8216
-4952
-4358
-3391
-4776
-
-4015
-4854
-2935
-5177
-2131
-5192
-3300
-3337
-5223
-6469
-6101
-3917
-3492
-3986
-
-8942
-9447
-6152
-2764
-6196
-3116
-6478
-9334
-9346
-
-10560
-5894
-12105
-4239
-4573
-
-1752
-6751
-3684
-2236
-6195
-11108
-5450
-
-32451
-29152
-
-13915
-7001
-11778
-2626
-3026
-12725
-
-6410
-4265
-10923
-9587
-7411
-
-4943
-5272
-2453
-7324
-3815
-6049
-2936
-5905
-3187
-3675
-3860
-7143
-
-58413
-
-6544
-11733
-11746
-3288
-5411
-5555
-3796
-
-4852
-6567
-1494
-4644
-6183
-2444
-5145
-1015
-5088
-7905
-6491
-
-3550
-5679
-4312
-2128
-2262
-3597
-2249
-2472
-4758
-3927
-5369
-2278
-
-1399
-3791
-4817
-13948
-10037
-6154
-
-7877
-16900
-10571
-18965
-
-4836
-5457
-6380
-4241
-4969
-3635
-4160
-5451
-6164
-5334
-
-4961
-2514
-1620
-2494
-6373
-4040
-7544
-2595
-2330
-6927
-7906
-
-8023
-6672
-3565
-9038
-7154
-5236
-
-4297
-3122
-4779
-3937
-3165
-5012
-1298
-5405
-6175
-3862
-3469
-3533
-5411
-6349
-
-36291
-32851
-
-7992
-4095
-4841
-6728
-2275
-1549
-8143
-8494
-7144
-5800
-
-3064
-1314
-4224
-5969
-2913
-2622
-4833
-3113
-3663
-5351
-5102
-2930
-6048
-5658
-4773
-
-1771
-9851
-9844
-4001
-1343
-6124
-3826
-7647
-
-8488
-7700
-19028
-2822
-
-4541
-6311
-6499
-1043
-5888
-2631
-3824
-3137
-6957
-1372
-1755
-5852
-4944
-
-7010
-7705
-7380
-5693
-6466
-2388
-4584
-1309
-5295
-4232
-
-8997
-11222
-12715
-13341
-
-3389
-5375
-6730
-1723
-4179
-6599
-8482
-9599
-8903
-
-1774
-6964
-3739
-6345
-4881
-5381
-2415
-7900
-8778
-
-10638
-20181
-4651
-
-11271
-3243
-11634
-2919
-8121
-9706
-7354
-
-2675
-2809
-5554
-4439
-1626
-4173
-4273
-2551
-2302
-4167
-1929
-
-2641
-1264
-2074
-8265
-1089
-5010
-2591
-5610
-4610
-
-8082
-11994
-3820
-2770
-9252
-3948
-7731
-
-9429
-7117
-13052
-8925
-1844
-11783
-
-1288
-5874
-3708
-4770
-6241
-1823
-2081
-4040
-1675
-3309
-
-6185
-5449
-1262
-4549
-5293
-4790
-1854
-4853
-1727
-5514
-5256
-4148
-5514
-
-6609
-15270
-13973
-10316
-
-8083
-8381
-4788
-1606
-5118
-1520
-8152
-2433
-2999
-1784
-
-1178
-5284
-8781
-5156
-6160
-1957
-3163
-5129
-
-6123
-8854
-2776
-8899
-1728
-1459
-6248
-1676
-6804
-
-11240
-11672
-1993
-12007
-
-11441
-8463
-3348
-3292
-6021
-
-3765
-7412
-2551
-3571
-2806
-3018
-7255
-4727
-1812
-5666
-
-1111
-7513
-4547
-8423
-6838
-8520
-5818
-7891
-7659
-1029
-
-21630
-17117
-
-4790
-2925
-1959
-7089
-5283
-6020
-2522
-2052
-1519
-1591
-
-6012
-10136
-10443
-7841
-6019
-1279
-3540
-9068
-
-3937
-12491
-9763
-7498
-1701
-
-11876
-9043
-4713
-2987
-8774
-11370
-
-4885
-5614
-2665
-7454
-1350
-1832
-8687
-9477
-
-10654
-8624
-6594
-13129
-10246
-
-25357
-10959
-23864
-
-2554
-4768
-6464
-2757
-1927
-1861
-2175
-2322
-4198
-4037
-4752
-2082
-6003
-5328
-
-1820
-4090
-7653
-2160
-3455
-2144
-12128
-
-29265
-30377
-
-2359
-3949
-6123
-2235
-4210
-5808
-2377
-6678
-2039
-1324
-2104
-5407
-
-1955
-4478
-3696
-6486
-2206
-3083
-2843
-5454
-4294
-3972
-2556
-5795
-3319
-2315
-
-6188
-1383
-3880
-3153
-5842
-3400
-5504
-1353
-1257
-3639
-
-5550
-5255
-4095
-3951
-3104
-2344
-4580
-3980
-1482
-2521
-2764
-1607
-5699
-2350
-1175
-
-3326
-5681
-5905
-7268
-6083
-1407
-1434
-3186
-5744
-6268
-5533
-2245
-
-2994
-1141
-10449
-6013
-5210
-8014
-3136
-8434
-
-28983
-19936
-
-4560
-8754
-6220
-12071
-5989
-2858
-6333
-
-1928
-22562
-
-3804
-7720
-6499
-7651
-1860
-1193
-8243
-2693
-2515
-4517
-
-2762
-1303
-5390
-4371
-2424
-5039
-5875
-1354
-4039
-1883
-1398
-5544
-3698
-
-1312
-5037
-2534
-3404
-3494
-5859
-7520
-3173
-4187
-5593
-4094
-
-1938
-4558
-3961
-8752
-6733
-8402
-2351
-7059
-
-4650
-5453
-5251
-2503
-7601
-6322
-7193
-3568
-6734
-1254
-7263
-
-15442
-18712
-
-2671
-34633
-
-8092
-6200
-3593
-12427
-11897
-5342
-
-12145
-20778
-25515
-
-4318
-7326
-6324
-3726
-6176
-2530
-4017
-5504
-2930
-4978
-1941
-3893
-
-7431
-2579
-2463
-5818
-2616
-7477
-8840
-2943
-
-28974
-26077
-
-4317
-2950
-2298
-4360
-2323
-5028
-6040
-1223
-2836
-5338
-6002
-4551
-4505
-1046
-5007
-
-5979
-1142
-5901
-4646
-5486
-5184
-6255
-1473
-6420
-5358
-2502
-4997
-6331
-5529
-
-3641
-1705
-3924
-3952
-3856
-4687
-4962
-3754
-2049
-5361
-5286
-4157
-5753
-2937
-1996
-
-9825
-2077
-12304
-8296
-
-5576
-4979
-5746
-3423
-1339
-5466
-2956
-3201
-4612
-5538
-4957
-3095
-3211
-
-6162
-6797
-12282
-3848
-14760
-
-8520
-6433
-5529
-5617
-4572
-2395
-3228
-6012
-
-36432
-12115
-
-3396
-3826
-2514
-5297
-5768
-4673
-6134
-2153
-4533
-5530
-2289
-3910
-3429
-6315
-
-9288
-7564
-2801
-7672
-3580
-6425
-5047
-9141
-
-6455
-4624
-7937
-6151
-9671
-2857
-
-5789
-7291
-3051
-4587
-4527
-5970
-5863
-
-7496
-2170
-3522
-1108
-4284
-1214
-5981
-4240
-4880
-2816
-3638
-
-1458
-4890
-4046
-5337
-6192
-3705
-1362
-3330
-3593
-1036
-3842
-6485
-2170
-1176
-
-4669
-7457
-3290
-1471
-1471
-4983
-8120
-3964
-2012
-
-12196
-12907
-1360
-2359
-4034
-12061
-
-2023
-2376
-4602
-2529
-2091
-7266
-3696
-4104
-7007
-4183
-2551
-4913
-
-12264
-2297
-16633
-19219
-
-5963
-5584
-1534
-6499
-5988
-1160
-5186
-4313
-4579
-2978
-6075
-5821
-3288
-
-2456
-1103
-2492
-1484
-3089
-2519
-2596
-3462
-4707
-2403
-5042
-2345
-1841
-3924
-3674
-
-15955
-14482
-19975
-7828
-
-7686
-33030
-
-9367
-6387
-4450
-1301
-6652
-
-2436
-8020
-9634
-1189
-
-13768
-4937
-6445
-2333
-8688
-2282
-
-2632
-2386
-1540
-1313
-5560
-3191
-3768
-6455
-1771
-5707
-6503
-3702
-2690
-6410
-
-4254
-9381
-10720
-6622
-4502
-3229
-
-10702
-25975
-21218
-
-1824
-3787
-1017
-3211
-1954
-3263
-1654
-5116
-5383
-6081
-5917
-3708
-3770
-3332
-1564
-
-8659
-
-1918
-13752
-13443
-2032
-8928
-
-8167
-4650
-4066
-8487
-5484
-2973
-1974
-8716
-3918
-6829
-
-8569
-4604
-3930
-4567
-15587
-
-8510
-8686
-2757
-10057
-2681
-7895
-6610
-10350
-
-27009
-
-3554
-8125
-6661
-1517
-1293
-6747
-3910
-4998
-3100
-
-58602
-
-2960
-5646
-4133
-3192
-5660
-3224
-4699
-6106
-4147
-4855
-1950
-1195
-5861
-3613
-5095
-
-2481
-11509
-
-9922
-2887
-1722
-10604
-6329
-6330
-3934
-5424
-
-7492
-6265
-3838
-8041
-6266
-4794
-2524
-6684
-2734
-7338
-
-6263
-8780
-6447
-20087
-
-6388
-9789
-4219
-6199
-1753
-7765
-2130
-5475
-
-6043
-4380
-7928
-3807
-5877
-1736
-6191
-4348
-5699
-2381
-
-2683
-4364
-6323
-2128
-3828
-1657
-3885
-3426
-6137
-4427
-2592
-6245
-6142
-5680
-
-4812
-8631
-7556
-6549
-4494
-7671
-2664
-3702
-3551
-1289
-
-8546
-
-5793
-8055
-4733
-3781
-4359
-1127
-5052
-7333
-1533
-3232
-6713
-
-9850
-
-6386
-8256
-12527
-10704
-11625
-6314
-
-36312
-9909
-
-2500
-5131
-12716
-2449
-10252
-2989
-
-10080
-7372
-4650
-4148
-1543
-7025
-4075
-5975
-
-6493
-1969
-3498
-5752
-5231
-5688
-3805
-2245
-3355
-7015
-2001
-1980
-
-5498
-10487
-6072
-5136
-4464
-1645
-
-5765
-1637
-4963
-3317
-2151
-4765
-4234
-4268
-3791
-1371
-5906
-5800
-4684
-5872
-1032
-
-7693
-5165
-3321
-7593
-6652
-4856
-7244
-3238
-5442
-6728
-
-8940
-2746
-4620
-4575
-1794
-8580
-6018
-1198
-2470
-
-10302
-5070
-4341
-2533
-4345
-11497
-
-11333
-1604
-6233
-6784
-5614
-10283
-5386
-
-2715
-3782
-4739
-5782
-3541
-3544
-3591
-4748
-7392
-3361
-5764
-6413
-
-9117
-1201
-6914
-1214
-3645
-3711
-1825
-10249
-
-4719
-8388
-1460
-4555
-1038
-8967
-2147
-2943
-
-3372
-3381
-3607
-5180
-2115
-1071
-2218
-5102
-3133
-5809
-3920
-2758
-1729
-2132
-
-1332
-6802
-5791
-3281
-6624
-1692
-5105
-5160
-3082
-6840
-1613
-4749
-
-5211
-2825
-6050
-2913
-2542
-2466
-2411
-2101
-5822
-1972
-3409
-2738
-5032
-5715
-
-8421
-5749
-1746
-1424
-4398
-5048
-1450
-2122
-7937
-4488
-
-17962
-
-1415
-5018
-11466
-17007
-
-8818
-9115
-4789
-1919
-8398
-3807
-
-13697
-10141
-5675
-2146
-1954
-6312
-
-8363
-2872
-1505
-7354
-1868
-3313
-6657
-3468
-7434
-
-2157
-2904
-3745
-6707
-4194
-2956
-5377
-3130
-7664
-7595
-7477
-
-22149
-
-5662
-4865
-5971
-6008
-6761
-5764
-4321
-1546
-1705
-6056
-3990
-3953
-
-7794
-1246
-5418
-2460
-7858
-6992
-5897
-3459
-2915
-2227
-1517
-
-7873
-3664
-6050
-9000
-8922
-8817
-4514
-
-20975
-
-4983
-11133
-4400
-6751
-2763
-2781
-11806
+15-16 p: ppppppppppplppppp
+4-9 m: xvrwfmkmmmc
+14-15 w: wwwwdwwwwwwwwnwww
+7-16 q: qhqdljqtdqqdqqjjcqq
+18-20 s: hdpzqqzpngbsmncssscl
+4-6 k: kkkkkkk
+3-8 x: xxfxxxxxxbkxjzxxxxxq
+3-4 v: vvgg
+4-5 q: gqqjqqq
+2-4 g: rxgf
+4-14 z: zzzzzzzzszmvszzzzqz
+8-15 k: cckkkkdxkhhkkwkzkl
+2-7 m: mntkfmxm
+3-11 k: skppkkhjsskkkwzml
+7-8 b: tbchbbbfjbbldgkbb
+1-3 b: bbbb
+12-16 v: vvvvvvvvvvvxvvvvv
+5-6 m: mzdfpmn
+4-7 c: cvtcssccjtlczb
+2-14 c: zdqkdtcxzndgcr
+2-6 l: rklhmfmlw
+9-14 k: bkxhkdvkzbgkkx
+5-6 r: plrrzp
+2-13 w: wwwgwwtwwwwww
+14-15 d: dddddddddddddjmd
+9-12 p: zpklcbpqjgtf
+19-20 s: ssssssssssssssssssfw
+4-14 s: sssssssssssssmsss
+7-9 k: qkkjjjsllkkkpknhk
+2-6 h: xhhhdhx
+3-5 j: djjljjsqgc
+1-5 t: ttktgjstttrtt
+1-4 v: nvcm
+1-3 v: vhvvqdhmdppbhh
+1-3 z: zzqj
+2-6 n: xbnkgkknwn
+5-6 m: mmmmsb
+5-7 n: rnpnnznc
+12-14 j: jjjbjjjnjqjvjpjj
+7-10 t: ttgtttkttttdgqg
+6-9 l: lllllllllllldlll
+2-4 m: mtmmmm
+1-8 h: hnjhjkmkvhhhgdrvnz
+10-11 r: rcxrrrxrqrrrbrhrrl
+8-17 x: xdhxjvxcxfxxxxxxn
+17-19 p: ppppqpspppppppppppp
+10-13 k: nknkkkpknkkkkw
+1-6 k: kjpkkkkk
+5-7 h: fmblhthhdtz
+8-10 g: ggggggrggggg
+7-9 s: zrgswsmwksvhssssn
+1-4 b: cbbpb
+6-8 m: mmmmzmmx
+6-12 l: lplcllrswmjlcqwnlgr
+5-9 l: dlplljlllflkhlklb
+1-12 q: qqzqqqqqdqqqqqqq
+10-11 p: kxppppggqcl
+2-13 t: gsfftttrtfzzfctvxztk
+3-4 f: ffcv
+8-13 z: zlzzjzskzzkgkz
+1-15 z: zzzzzzzzzzzzwzzzzz
+6-7 k: kkkmkkjj
+7-8 q: wzwqqfqqqqnlqjhbpxq
+7-8 m: mmmlmbnpmgmmv
+5-8 v: vvhtvsmnvwwhv
+7-9 n: xnnnnnnksnn
+9-10 p: vppflpppxn
+3-4 h: hhhh
+1-7 j: fjjjjjbj
+1-5 g: grgwg
+1-8 h: lhhhhhhlh
+6-7 m: mjmmvqmmdf
+14-16 z: zzzzzzzzmjzzzzzzzzgz
+13-14 c: rckctczsnlqkjf
+2-14 s: shmvnmsmmsssgsg
+7-9 n: nnnntxkns
+6-7 q: xqqqqqgq
+13-15 q: qqqqqqqqqqqrqqq
+2-12 s: gqssskssssskt
+1-2 v: vvxgvp
+1-12 p: rpppqhnfjpppbdlpfvwl
+2-4 z: zzzz
+3-6 t: tttmttj
+2-8 h: chhfbrdhv
+2-4 j: jjzjrs
+1-3 z: zzzz
+6-19 m: tmmrmmxtmmmmhmsmmmlm
+2-3 s: nssgss
+5-9 m: mmlmmmmmbm
+1-4 n: sdwr
+11-18 t: tttttjtmtttttttbtkpt
+4-5 s: ssshsg
+3-6 t: twtnnt
+14-17 r: rrrrvhrrrrrrrrrrhjrr
+6-8 w: wplxwwwwwrwbqtwww
+2-4 s: ssss
+11-18 g: pmgcrgsgqgzgggdwlh
+1-3 q: qqqqq
+4-6 g: ggggdp
+11-16 w: wwwxwwwwgxfwwksdw
+5-12 c: cccpcccmcccwjcvgcc
+3-7 p: pxpzzmppxvrpvchplp
+7-9 n: nnnlbnvnwnn
+4-11 q: jqwqqhnhnmqqqqn
+11-12 g: gxggcgggfgglgg
+11-15 d: jxsfqrfddddpfjdg
+5-6 w: wwwrww
+3-19 d: ddddddddddddddddddwd
+2-10 v: vmckfhtzjrn
+1-3 h: mhbfh
+1-7 x: hxxxxxqx
+4-5 v: thxwnb
+1-3 x: xlcx
+11-15 t: tgtttttttttbtttdtdt
+4-5 b: bbbqbbqb
+4-13 r: wrrrdkrrrwrrrfrrr
+6-7 l: lldllvlllt
+17-18 v: vvvvwgvvvvvkrthgll
+11-12 t: mbhjbcgqtfqpp
+3-8 m: mmtzmmdkf
+3-12 w: wcwwzmwsfwmw
+7-11 c: cccccckcccx
+2-7 z: hzzrhdzmjwjr
+4-5 f: kfdsffbrpczwfk
+7-8 g: ggggkftcg
+1-10 k: kkkkkkkkkk
+8-11 d: dhddjddrvkgfbdd
+1-7 r: svxrhft
+3-11 m: nmsmmmmmqmlbsmm
+4-6 b: bbbnbpnbbbbbbbbbb
+1-5 b: rbbbb
+6-7 f: rcwmfff
+5-6 l: hlclllll
+1-5 t: tthptzt
+3-4 z: fxzzzz
+11-12 r: rrrrrrrrrmwr
+13-14 g: lgggpgggggggqlgdg
+10-13 b: bbbbbbbbbbbbb
+13-16 m: mmmmmwmmmmmmcmmsm
+3-4 s: sssc
+16-17 b: jwhbwzftrjrdzbjkb
+2-5 x: xxhcxxx
+3-4 x: xxpxx
+7-11 b: bbbbbbbgbbbbb
+8-19 p: ppwqppbpslpppfphzmz
+12-14 r: hczhdgrrcpdmgk
+8-18 r: wvdprmvrtvtbccdlvrg
+3-9 b: bbbbbbbbzb
+3-4 j: jjwkjpj
+4-5 j: jwjkq
+2-3 b: rrbfkb
+2-5 w: bfsws
+2-3 f: gffhfcsfklqf
+5-7 p: pppppzjfp
+13-15 s: gsszjhcsnjknsws
+7-15 q: qwqqscqsqmlqqqqwq
+10-12 p: krvdljmxjpjpptm
+11-12 j: mjjcjjcjdjjj
+3-6 s: psmsxcs
+2-4 d: mdmdd
+8-14 t: jttrttxqtttttlttt
+2-4 r: xrrrbr
+5-10 g: pgggtvklffghkwgbhgb
+3-7 g: fgwgpggpg
+1-4 r: rrrrrrr
+1-3 f: hxsfbc
+11-14 n: nnnnnnnnnnnnnnnnnnn
+2-5 w: wwwwpmdnxwlm
+2-4 r: rfrtrrrrrr
+1-2 m: mtjcmmm
+2-10 v: vvvcvvvpvvxj
+1-11 r: rrrprfwwrgrmjrbbcrqr
+3-4 f: fjkf
+7-8 k: kkkkfxvh
+3-9 v: vvvvvrvvjnv
+5-6 r: rrrrrr
+3-6 x: xjvhxxkxxx
+4-9 x: rxfghxtff
+13-15 f: fffffffffffjxdkbfff
+2-4 q: xrzhqkbjsldz
+6-8 l: llllllllllllslll
+8-11 k: plpqkqngkxrkk
+3-5 p: pcppq
+2-7 q: hjhzmqzt
+3-4 t: ttfhhztttft
+3-5 k: kkqkk
+6-17 b: lhnnnbcctjvfflcpl
+1-4 j: jjjjj
+10-11 m: mmmmmvmmmpmmm
+16-18 n: nnnnnnnnnnxnnnbnnfn
+6-7 z: szmrvzz
+6-13 r: qphmsrhsbrhkr
+4-10 t: zstrwmhtblxgcttnrt
+3-11 v: vvvvvvvvvvpv
+3-4 s: smssk
+4-9 b: xbbdbcbbsbpbb
+6-11 r: rrrrxrrgrrr
+11-13 t: ttttnttttttttttt
+5-11 d: cddncjdmvfdr
+5-6 b: fpbbbbmkdbm
+3-4 j: cjpj
+3-7 n: bjnqkjzhsxgmznrj
+6-7 d: dddlxdddd
+11-12 s: wssssssrssfmsss
+13-17 g: ggggggggggggggggg
+6-7 h: hhhhhhh
+6-9 q: qqgqsqrqq
+2-14 s: spjhcggszczxzmpfv
+2-6 n: hjnxnjn
+3-5 b: bbbbrbb
+7-9 n: dllxnbptvcs
+5-9 s: shssbdssls
+7-8 d: ddjdfddzdd
+11-12 f: ftfffffzjfpdff
+5-10 l: xfczlllvlvlllnllxw
+10-11 t: tttktksttdtttt
+1-4 l: vlcl
+4-5 c: hcccc
+4-5 b: bbtbx
+9-12 w: wwwwwgwwwtww
+14-20 x: kxdxwxbxxxxjkxxxdjzc
+5-6 m: mzmmmmxpmh
+13-14 s: swsssssssslssl
+3-4 c: xgmc
+3-7 p: rqpprwwktjpmnjqpx
+1-14 s: sphwrndcqtlzcbrsppr
+12-17 l: lllfslwlbjlllllll
+1-11 d: ddddddddddddd
+4-7 j: jjjjjjjjjjj
+6-7 z: ztpmzzz
+3-5 c: hcccncncczccc
+8-12 z: zzzzzmzfzszgmmzz
+2-7 d: dvddddd
+3-8 q: tcbgclbgs
+5-16 b: bbbbbbbbbbbbbmbb
+3-4 f: tmjdffrfq
+15-18 v: vvvvvvvvvkcvvvvvmbv
+6-13 v: vvvvvnvvvbcvjvv
+4-6 g: gbggdgphgwfnwg
+10-16 d: dddddddddhdddddd
+6-12 h: hxhhhhhfjhhhx
+1-4 g: wghgnmg
+6-14 n: xfznfnncfnnnnmnqnn
+1-9 d: dcxdzfjdqjhlprmlgr
+5-6 d: sgghtdkbllvjddhdddrd
+2-3 f: rffdfpr
+4-5 m: fmmmm
+5-7 p: gzlqbpkl
+6-7 w: qwwgdwwcw
+2-3 x: qxxtfnxx
+3-5 n: nnvnrn
+4-5 l: lllndx
+6-8 c: hjrcccccdvcst
+8-16 w: ftwmgvxwcnbnhnxlvdfl
+4-15 d: jldsrczptcggwvd
+4-6 h: hhmhhh
+2-6 j: jtnlnlg
+14-18 q: qqqqqqqqqqqqqnqqqqq
+5-6 p: xlhmshqtplxfzgpj
+9-10 r: rrrtrrrrrrrr
+1-5 p: shqhvbcnmphrdk
+8-14 q: qqtqqdqqqqqqvxqq
+4-9 c: zvdccctccc
+6-7 n: lnfhdndhtnlnpnnf
+15-16 c: rbcrqqcbmcddnpwc
+4-7 s: mssssdst
+5-9 l: qlgqlkftlkjb
+8-11 j: jjjjzmkjljzwmjjqbjq
+3-4 j: jfmr
+2-5 r: rfrrq
+1-4 m: msmmmc
+3-4 j: vfjhvjqcjnzpl
+2-4 c: cvcc
+4-5 d: dddfgddd
+2-5 z: dndsb
+2-7 h: hhmqhthhhhl
+11-15 l: llllkllllwlljllglpl
+2-3 j: cjjjgjnp
+15-16 g: gggggggggggvggxlg
+7-8 p: pnppppjj
+17-18 h: hhhhhhhhhhhhhhhhhh
+2-3 f: frlf
+5-6 v: vvvvvv
+10-11 n: nnnnnngnnnnrnnndrv
+4-8 f: jhqdjfnfft
+14-15 l: llllqlllvllllllssl
+5-6 w: wkjwgch
+4-11 h: jxjhhhnhhhhhtch
+10-11 m: mmmmmmmmmrrm
+4-10 m: mwjtqmwgnq
+16-17 v: lprvzvvvvvvvhvvmvvv
+5-7 g: gggfggg
+11-14 l: lllzllldplhdllll
+3-13 s: qcvwtwstkvrrfzs
+16-18 g: ggjgggcggggggggzglg
+3-4 s: sscfs
+11-13 c: cjcccfccscwcclcccb
+6-8 k: zkkkklphkk
+1-7 j: nkqkqbl
+1-8 h: sshmwjhkkjfhgfhhd
+4-5 v: rvvvvvvv
+2-3 h: phhhb
+13-14 j: prdbjqmvbmjspr
+12-19 l: mllljlllllllllllllt
+13-15 x: rgnqfdxsvlplxjx
+7-10 r: rrrrrrrrrbr
+1-4 b: bbbbmbb
+8-9 f: gfndcxcvm
+5-6 n: bnmnnnnxjfrn
+4-5 n: nnnpxn
+7-9 r: rgrrsrrrwrrr
+1-6 p: mppxpp
+4-5 k: nckkmkzkxg
+1-4 s: sssssjsszssssssn
+2-3 g: sxpw
+2-5 r: rrmrcgrrrlrq
+5-9 n: nkxnnnnrnp
+14-15 b: bbbbbbbbpbbbbcmbb
+1-4 c: rsrswbcf
+3-4 g: ggxctzgs
+5-6 p: ppppfp
+5-7 s: sswssssqbs
+5-11 z: zhvlzwfgpgzzzz
+8-9 m: mmmmmmmml
+13-14 s: sssssssssssssb
+9-12 f: fhstmfffkmjrfffpr
+3-4 z: zzzz
+7-8 z: zzbzzzpwz
+2-12 d: mdddcdsddddrdd
+1-10 s: xhqvwjvbspskb
+6-13 z: zzzzzzzzzzzzrzz
+4-7 r: rwrrtrsrrpr
+2-9 g: lgpkjldqwvhntvwgb
+7-11 t: xdttntttvtzttzjf
+8-15 v: cnvvjrzvvvvvprfrv
+1-2 g: vggmh
+11-13 t: tzzfrvhmtctttttthtnt
+16-17 s: ssssssvsssssssssp
+2-6 f: frfhfdf
+6-8 h: jhhhhhwmh
+7-8 n: rmnclfgn
+10-11 m: mmmmmmmmmxn
+9-13 h: hhhhhhhhhhhqhhhh
+10-11 q: qqphmqqqlqq
+10-18 q: qqqpcqgqqqqqqqqqdqqp
+2-15 s: pqmfksdwbkklrlm
+15-16 p: pppppppppppppprx
+6-11 d: vddddswgdjz
+2-8 m: mrmmpmms
+7-8 x: xxxxxxxxx
+3-6 g: bmgtgwjnrdq
+1-11 j: jgjjjjpjjjjjjj
+1-6 r: rqqvmrbrbrztwk
+3-7 h: hhfhhhkwd
+5-9 w: wwwwwwwwwwwww
+11-12 g: gvvczkkmtsgtpsgbg
+4-10 q: qqqqqqqqqqq
+4-6 t: tttvtwqt
+9-10 h: hhhhhhhhkw
+8-12 s: cssssssfxssmsrwssssf
+2-5 c: sgwzjggz
+3-6 m: mmzmmz
+10-13 v: mvvvvqdvvfhvfv
+3-6 j: slvljjkbtjdqvq
+2-6 s: sbsssgsfmsjssssssps
+5-7 r: xcdwvgrrrprzflmrcv
+4-6 l: bdbdvlllltlv
+6-14 s: sxsssqsqsssvsssssss
+10-12 j: jjkjljjjjzjlvmw
+19-20 d: ddddxddddwddddddrjdd
+3-5 x: mjxxk
+9-10 c: ccvbcbcccccc
+3-4 t: kpvn
+5-6 v: qcgpvw
+5-7 l: ljjllpklctzlv
+6-14 h: dxhhgzhhtdhthrjqn
+11-14 q: qqqqqqqqqqnqqzqq
+1-8 p: pshzfpnpp
+7-12 l: mwclllllflklhl
+2-10 j: jmjgwjjjjjtfj
+5-6 j: jjkmjmjbjj
+4-14 f: ffbgdffrdffffh
+5-10 t: tttnbtrhchdt
+6-10 c: kccrcjcscmccct
+10-18 c: cccvccccchccccccvqc
+2-9 p: ppprplrrpp
+11-12 x: xxxxxxxxxxxxt
+17-18 w: wwtrwxwwwmwwwwwwww
+6-7 r: rrrfrrzrrg
+1-3 r: gflrrg
+10-19 z: zqczjxrzrpzzzdfzgzd
+4-6 n: nnnnnknnnnnnjnnnnn
+7-9 n: nnnnnnnnw
+4-9 k: qnvkkfphktkt
+6-8 f: fffrftfpfffrfcfff
+3-6 q: qqqqqvqqq
+5-6 x: llxdwx
+7-10 n: nnnnnnnnnnnnnnnn
+12-15 j: jjjjjjvjjjjwjjv
+6-9 f: dnjjlvkfrkf
+11-17 h: hhhmhxnhhjvhhrwjmhh
+9-16 f: fffffffffffffffff
+3-4 q: qqqqk
+6-8 b: gwxlbzzprtn
+7-17 g: grqqztqvggjjgdggfgg
+1-10 k: ksghkhvzkxjgxks
+10-14 f: pbsffkfftfffff
+1-6 n: bnnfnb
+1-2 c: hdzqlbcnzjvs
+1-19 z: zzvzzzzzzzzzzzzzzzz
+8-12 m: vvmmbmmvkmmmm
+2-9 t: ttwtxthgtptttttg
+2-4 r: rlhvrrqjtswfsb
+9-16 s: dssnssjftsssshsp
+10-11 z: zzzzzzzzmhs
+5-9 j: tjrgpjcjl
+8-11 t: xtlntfwttnp
+1-4 m: kcxbmdmmk
+3-4 x: xxldxxnq
+4-14 v: pvqkvbbvsjjxvtvvsrrv
+4-7 v: bpwtsvm
+10-12 j: jjjnjjjjjjjj
+5-9 h: dmqpdshshh
+9-11 h: prhhhhhhfvgh
+2-4 d: qdddd
+3-6 j: jjjjjjj
+7-13 m: gjpmplmtmmhvm
+6-7 x: xxxxpzw
+6-9 k: kswkfhkzkkr
+3-8 m: mxmdmqmxhsdrms
+12-13 b: bbbrbbbbbbbbbbbbb
+5-6 h: cphxvkmhghh
+6-14 k: kksgdkvhwkkxbkcvb
+4-5 z: zzzmg
+9-13 l: lllllllllllll
+17-19 b: pbbbbbbbbbbbkbbbbbpb
+5-6 p: ppvqcqp
+2-7 n: snlcnszdc
+1-3 m: qmmz
+4-6 w: wwwwwwww
+6-8 f: mfffffff
+1-8 l: lllllllrlllll
+3-10 d: fmwvkqdhgh
+3-8 v: vvvvzsvx
+12-14 m: mpmmmmmmmmmdmnm
+11-12 m: mpmmmmmmmmzwm
+5-18 g: khsdgtssgvkwwnwhbg
+15-16 q: sqtqlqqvqqqqqfqdw
+3-7 p: pffbppdpnhqpzht
+10-19 r: rrrrrrrrrlrrrrrrrrf
+1-2 d: mfdrnswwhg
+2-3 d: lcdd
+13-14 k: kkkkskkkkkkkrm
+1-4 j: jjdt
+7-9 r: rrrrrrnrdrrrrr
+1-14 v: vvhvvvvhvvvvvvkvnvvv
+2-4 c: crsncccbwccvb
+12-14 w: xwwwwwwwwwdfwjww
+16-18 l: llllllldllllllldlfl
+14-16 p: jpvhrsgpdhhqwpdp
+9-10 m: bnfmvmmmmsmmmm
+9-13 t: tpmsttfcctksdktdfqx
+1-3 c: gzcvchdwdbq
+2-3 v: xrvvvwn
+1-4 b: bbbb
+13-16 s: snsssssgssssjssjs
+2-5 t: gwtcl
+1-6 s: qsssmdsssm
+7-14 z: bhgrzzjzgzmzzzzz
+1-3 p: ppnptchxppvw
+11-16 b: bbmbbbbdbbhjbbbvbjc
+4-8 x: xzmkxrvxqxvt
+1-2 m: mmmm
+1-4 r: wrjb
+7-11 d: dddddhdckbddc
+4-5 w: wwwmw
+10-12 p: pppppppgpppp
+2-6 v: vtvvvrv
+5-9 w: gwwwlwwjnw
+8-11 j: jjjjjjdvjjcjjj
+6-7 s: sssmsss
+6-20 d: dsrnfpphdznqdjfbqvql
+2-7 x: rlhprqxswxckpxh
+3-4 q: qhqq
+4-9 z: wzgzrzzzznzqrzvjvtn
+6-8 d: cldrblzkmhmc
+5-7 t: ttttjtht
+3-10 l: lllhzklllllll
+14-15 k: kkskkkkkkkkkkkkkkkkk
+6-12 q: qqqqqgqqqqqr
+12-15 f: fcffffffrfffffflmfw
+5-7 l: nhltlhq
+10-12 j: tjjfkbgjzcwsp
+6-7 r: rrvrrmqr
+9-11 m: mmmkmmggmfmhtmmrm
+11-19 d: dkddrdddnddcdwdvldd
+6-7 n: lnnnnfltcz
+7-9 j: jjjgjjjjjj
+11-14 m: mmmmmmmmmrmzmmmmmmmm
+5-6 m: mdnxmmtmmjkmlzpzj
+2-9 g: hgmjfsvdgkgsbr
+5-6 t: sbttttkb
+5-9 t: tnttwrhttt
+3-18 t: fnwszlmqhlzdzhmkmt
+3-4 b: bbmbbbzzbbbnbbx
+8-16 l: vxlllllkllllllljl
+5-13 m: xmxqfgjjtxrrfwpzjmjq
+14-15 q: qqqqqqqqqfqqqfq
+7-10 w: wwwwwwbwst
+11-12 j: djjjjjjjwjsljj
+2-9 j: pjjzxjlbjmjjjj
+6-7 r: rrrrtrr
+4-5 x: plnxmrxxxrkv
+10-11 b: cbblcbbsmhnbbbbndb
+1-6 v: vvxvvwv
+8-12 t: ftttttltttttttttt
+4-5 p: jzpjf
+1-5 g: zbwrgrk
+4-6 q: kzjnpf
+5-7 b: gbbbbbbbbw
+10-11 r: rprjzrrrrqm
+18-19 k: xkkvkkkkzkdkzkkkkjtc
+10-15 x: xxxxrxfxxxxxxhx
+2-4 p: xqvp
+13-14 t: tttntttttttttt
+5-18 p: qpljzcpxppzhbqpprrjz
+4-5 l: lllll
+4-7 m: mmmmmpm
+3-8 b: bbzbbbtglbb
+1-4 l: lqlm
+5-7 v: vxvvvpvvv
+9-11 n: nnznhdrnbnxnnn
+2-7 h: chdvhrh
+4-7 v: twgvkvvfhzv
+2-6 q: mqfqvq
+10-11 j: jjjjjjjhjqldj
+5-8 m: rvmpmggmhmpmmj
+7-8 j: jjhjjjpj
+12-13 z: zzzzzzzqzzzpz
+5-12 p: qptzdzpsppppn
+14-19 k: kkkkkkkkkkkkkgkkkkk
+8-12 v: vvpdvfvvvvvttpcv
+9-13 x: mxvxxxxxvxsxwxxxbj
+6-15 w: fwrwqzwwtwwbwwg
+4-5 t: tttttjtw
+3-4 d: sddxfd
+3-4 t: rjxwfzktkvszlhttjd
+18-19 c: cckccqccfccnnjcczgrr
+7-9 k: kkkkkkkklkk
+4-5 v: dvvlsvjv
+7-9 c: cccccrccccccccc
+9-10 x: xxxwxxxxxx
+1-4 k: kkhk
+3-4 k: kjztk
+1-5 m: bhcmm
+2-4 f: ffff
+8-14 s: sspsssttslsssslwss
+3-4 k: qkjk
+14-17 k: kxrmldkdcpnxckhfkwqz
+4-5 q: qqqfngfqqq
+1-3 b: nfstkpdbbdtbghdt
+2-5 q: pqhrqqnfrskvzz
+3-7 r: mhrwxrrrrskdjrb
+2-8 w: wvffwwqkww
+4-5 w: wwwwqww
+5-11 h: cchhhrmjdkhqwchhbhz
+3-6 z: nzzkgzp
+5-7 l: cwllllltlllll
+17-18 q: cmhblsqvqjqwqqvrwtqp
+6-19 m: mmdmmlbmmmmmmmmmmmrm
+17-20 b: bbbbbbbbbbbbbbbbsbbt
+3-4 m: xmgj
+9-14 r: qkktgxrsfxgknrj
+2-4 s: khcjpl
+4-17 w: nfwcmjnkczdxvsvzx
+3-10 r: jrrggrwfrrrjrprrngtr
+6-11 n: rpnnltfnxtj
+12-16 q: qqqqqsvqqqqwqqqq
+1-3 w: mdwd
+8-9 j: jjjjjjjbj
+9-17 k: mkkklkkkkvkkmpknvkk
+4-5 g: htgghp
+18-19 c: ccczcggccxccclcccgc
+2-4 p: pfnp
+3-4 w: vwfq
+9-16 j: jjljjjjjvjjjjjjjjtj
+12-17 v: vvcgvvvvvcvzvvsvlvv
+2-11 t: xhqtmtwtttgtttthtt
+3-4 h: hhswh
+5-6 w: wwwwwww
+5-9 c: ccscccckc
+4-8 b: bbkgbbbgb
+5-6 q: dkqrqp
+11-12 t: ttttnttttpqdttg
+3-6 h: hhfwhhd
+12-13 r: rrrrrrrrrrrrrrrr
+3-20 r: rrrrrrrrrrrrrrrrrrrr
+4-5 c: ctcccqcwcc
+4-11 l: llldwlvlmlqgl
+6-7 t: ktbttkqtt
+3-7 t: jmtvtrttcwf
+2-8 d: bjdvqzbg
+5-10 k: qqmkvkknxjmkckk
+6-7 z: zzzzzzzl
+2-12 p: wmtjnsxzgkkcwnwc
+2-18 g: wvhbzrwgnlrrhnhcznv
+4-8 q: mfqcdghqmxqzcljczqt
+1-3 t: nktl
+2-16 x: vxzczxqbgfgrcghx
+15-16 j: vjtjjjnzjzfjjbcwdl
+11-14 w: wwwwwwwwwwpwwww
+2-11 m: mnmmmmmsmmnmmmm
+2-3 l: llqglv
+8-11 d: ddddddlmddgddddsdd
+11-14 w: wwwwwwwwwlzwwhw
+15-17 s: ssksssrsdssswpmdm
+11-14 x: xxxxxxxxxhxxxxx
+12-14 q: mqqqqfqqpqqqqqqqk
+3-4 x: rxjx
+7-14 w: wpwwwwwqgwwwwhsw
+8-16 s: sssssssgssssssvcss
+4-5 g: gxgggg
+6-8 b: bbbbbdbxbbbbb
+15-16 x: dfxxxxxxxxxqxxxxxrx
+2-3 x: cxxnr
+2-4 d: tdjdpzrrbpmmbdx
+6-10 l: lllllllllllll
+10-14 s: sssssssssmsssrss
+1-4 c: ccdc
+1-4 w: bxzwjqdwpwlwjn
+2-5 l: vqllflll
+10-17 z: zmjrzzzzzszzzslzzmzz
+4-9 c: dcckccjpmcq
+12-14 w: wwrwxwwwlwwwwwwww
+1-4 s: kjsc
+5-11 w: wlwwwwwwpwj
+3-6 q: dpcqqfq
+9-11 l: lllllrfnmnblfrll
+5-8 r: rrrxhrrgr
+3-13 h: hhhhhhhhhhhbhhchh
+2-5 f: pffqfw
+1-3 x: xxxx
+2-4 g: rgpgtwwrfxdbgs
+1-4 f: xffnf
+7-19 k: kprtbkxkkkrkkkkkkdh
+15-16 z: zzzzzzzzzzzzzzjmz
+3-4 p: xppp
+10-13 l: jlblmllgllgll
+1-5 s: fsssx
+3-6 d: dbjddt
+9-10 s: ssssssssqs
+1-7 s: szjnqdss
+5-11 c: cccctsccccbcc
+2-3 d: cbdhd
+5-16 j: jjjjxjjjjjjqjjjjjj
+9-17 g: gjgggglgxgggggggn
+1-2 r: dhrmmccfnthtxmmxp
+8-12 q: qqpqmqqzqbqqkn
+5-13 q: qqqqwqqqqqfqqq
+2-9 m: kzwvwzqrmvn
+3-6 c: fscccgc
+14-15 h: hhhhhhpbhhhhhhhhh
+1-5 c: cxltc
+4-5 d: dvddd
+4-5 t: vfctz
+3-4 r: rrlr
+1-16 w: wwwwwwwwwwwwwwwwwww
+2-4 f: ffcf
+13-14 h: sbchhxhhxrxdlb
+8-10 s: sssxgcshsjs
+18-19 t: tttttttpttttrtttttp
+5-13 b: bdmpbkbjdhbbbqkb
+3-5 z: wrskzzzq
+7-10 f: fgfffffffffff
+2-5 b: qrbmskdkbs
+3-7 x: xnctxxkqxvz
+14-15 d: dddddddddddvdtd
+10-13 d: dddsrddzcldnbndntx
+10-14 w: wwwwwwwwwwwwlwww
+9-10 v: svvgsvvwvvvvvn
+4-10 g: gggggggggggg
+2-8 x: xgxxxxxr
+3-11 b: fbrwbzfbbkbs
+8-9 f: qvdxcfqffxdlhlndqj
+8-13 k: rkxdkfkbxbskkkgvkk
+5-9 t: xtttmtpsptztts
+1-4 v: vvvkvvvvvvvvv
+11-12 n: nnnnnnnnnnpn
+1-2 f: htkv
+3-7 s: qfszssf
+4-5 j: njjjjjjj
+7-8 f: fdffffbjfk
+3-5 v: qcncphtnjnqvr
+6-11 l: lmwlptlllllll
+5-7 q: zvqlwqqcqqdqbm
+2-6 h: hhhhhhh
+5-9 v: nvslbccbvpqfgt
+9-17 k: mzvbktkkkckktkkdkkk
+5-6 f: fffflf
+12-14 t: ttttttlttntptmth
+17-18 k: flnshklxckpjkkzkkk
+6-11 w: wwwwwwwwwwwwwwwf
+9-13 j: jrpjjjwvjjjjjtzj
+6-8 b: bbqbbfbzbb
+10-13 q: qqqqqqqqqqqqq
+12-15 t: blftxfwtsldttstztnt
+4-5 g: mggqg
+10-19 z: fzcvzpkznjrzgsfwzrv
+5-9 t: txcgtnvnt
+6-7 w: wwwwwdm
+10-14 g: bgggglgtggggxkxggggg
+6-8 f: srjfqgrr
+2-4 w: wrbbwk
+8-9 s: sdjcssswxn
+7-8 w: zwwwwwwwwwv
+1-5 l: llvlxll
+1-18 h: hqbhdchhhhgqfhwhjh
+8-12 t: dqttttthtttlttxnt
+5-8 s: gssbtqsszscxsxt
+8-9 r: rrdvrrlrxrrrf
+7-14 s: xssrszdrqspbjk
+2-5 l: lwllv
+1-4 q: qdxkkdtqccdfpjlcjpsn
+12-13 z: zzzzzzzzzzzjpz
+1-8 r: gsrcbxpp
+2-4 w: jwwwnd
+2-4 w: mwmwsnmdrrmzstcqnfx
+16-17 j: jjjjjjjjjjjjjjjzjj
+10-11 w: vwsvvfwnfdzwwn
+8-13 r: rrzrrrrrhrrrrrvrr
+12-13 v: vvpvvvvvvvvcp
+5-16 t: tptwxtzstbtstvlwt
+3-4 x: nxxxx
+3-4 w: hwpm
+1-4 w: xkpw
+2-7 t: tcnmnstc
+10-14 v: bjvfmvwmlfmzvntvv
+1-8 n: zdnmntxjznx
+4-9 n: nnnnnnnnnfnnn
+3-5 v: vvvvvkvvvvv
+9-11 p: dbvrspsqpswqbs
+3-11 l: lllllllxllll
+15-16 t: tttjttttttttttvkt
+2-5 z: zzhzt
+4-5 x: xxxxxnx
+1-4 r: rrrr
+1-3 t: fpgvpvft
+16-17 g: ggggzggggggggggggggg
+6-7 f: fffffzd
+3-8 t: tttttttttt
+5-6 k: dpxbkk
+9-10 s: sssssssssx
+6-7 d: xdddddd
+7-13 d: psjkdzdwkpzhdv
+2-7 l: llllllxllllllllll
+4-6 h: jhjhnhhhhhhhhldhhhj
+15-16 q: qqdqkqqqtqqqtxrqqlt
+2-14 f: tbthxfczjjkffffh
+11-12 m: mlmnqvmhmpzz
+13-15 l: llllllllclllzlpg
+5-8 j: jjjjjjjj
+2-3 g: gbmtnjgq
+3-4 g: rgqfggl
+10-15 w: wwxwwkwcwgwwbwx
+4-5 w: wwwnd
+3-6 h: vcpsbhhgkhrnjcpnhtv
+2-6 q: qqqqqtxqq
+8-10 l: lllllllnlm
+3-4 c: ccgsg
+2-12 p: fpfnfwvzrrwppgj
+4-11 p: hxsjlvtxnpndg
+1-2 h: tchph
+3-5 w: tkhjdw
+2-3 b: brkzbtl
+13-14 d: dddbddwdvxjdcz
+2-3 m: mmmf
+7-8 r: rrrrdrrrr
+6-8 w: hwwwwwwwqsq
+6-7 x: sxkxbxxxtxxx
+5-10 f: pqpffjxfzf
+2-4 k: bknl
+2-9 x: xxqxsxxtp
+1-10 v: vzwhxdmfzkcvfjkltl
+6-7 d: zdrfljdwr
+10-11 h: bcngmvshhhh
+11-12 t: ttttttttttft
+7-8 b: rjbbbqbb
+9-10 c: ccccccccdwc
+14-15 h: hhthhhhhhhhhhhhhwhv
+1-3 d: dsddfgb
+14-15 v: vvvhvvvvvvvvvvvxv
+5-8 w: wbswsttmqwzpdwwwts
+5-7 w: vwdwtwmrljq
+3-4 b: mzbbqsdhrtbdlf
+2-5 n: prxnnn
+6-11 g: fgggggggggkggb
+5-10 q: kqpwlthzbvjwztmdttl
+2-9 v: wkglnxwscznvqwjzg
+1-13 x: xxxxxxxxxxxxfx
+4-6 s: ssshsq
+13-14 l: lljllmllglllllnlll
+2-10 b: mbvlbjmhrj
+4-14 j: pjpjkncfzchgzgpvcxsj
+4-5 k: kkpnpkkr
+5-8 x: xdtxdxxxxmffxxf
+1-6 n: nnnnnn
+3-4 r: btmrrdr
+1-5 c: ccccfccccccccc
+5-6 q: qwpqqq
+2-8 h: gxhhppdf
+7-9 l: llhllhlll
+13-17 f: fffffffffffffffff
+1-14 w: wtvkwddfbpklwwtqf
+1-4 j: pjjj
+4-6 t: tltcszzt
+2-11 k: skjzfjrfktsbvkk
+3-5 f: cfmfbgfs
+7-10 h: hhchhhrrhfhhzrh
+2-3 n: nnrkn
+3-5 s: lsvcwg
+19-20 r: rrrrrrrrrrrrrrcrrrrt
+5-11 h: hkhbhghxhhh
+7-9 m: bhrmwpfmv
+3-4 n: nnzzs
+5-10 n: nnnnnndnncvnnj
+1-2 n: nfnd
+4-6 l: klwldlvllnt
+1-9 k: kkkkkkkkkk
+2-3 m: cjhq
+7-10 l: lllllllllll
+15-16 j: jlwvstmfjjjjrgcr
+5-7 d: vfdrddjwdp
+4-6 t: tttrtl
+3-10 g: dxjmwdhqgslgkvz
+12-15 d: dddldddddtdmldw
+2-3 v: dvvtbht
+7-9 n: nlnnnmvnnnnnkn
+4-8 v: kvvtvlvs
+2-9 f: ffffgvxsfpxfxzr
+4-5 z: czzbwwzzzw
+5-6 x: hjxxldx
+5-7 b: bwbxmbshlvp
+3-4 f: pzffwr
+5-6 r: frlgnhmrf
+2-3 w: kwwd
+4-5 s: szsrs
+11-12 j: jjjjjjjjjjhc
+3-4 v: vvvv
+4-5 b: pbggdlhbbdfdj
+3-12 j: njrbhvwxmmwfrfmmbw
+15-16 m: qqvbjcmrmhmlljnj
+1-9 h: hhhhhhhhmchhhhhhhh
+6-11 p: ppppppppppgpp
+14-15 p: gppgpbprpppzppppvp
+3-15 z: zzgmzzzxzzxzzzqz
+7-9 x: rxxxxxxxrvwxxx
+4-5 x: jxxsxxxq
+5-7 t: xtggtktxt
+19-20 m: mmvvmmmmlmzmmmmqmmmt
+1-3 z: zzzzzcznzzzz
+1-5 t: zqthftmx
+3-9 x: rwxxmxnxxx
+11-12 x: xxxxxxxxxxwh
+11-15 v: vvvvvvtvvvvvpvcv
+14-17 d: dddddddddddddddddd
+13-17 l: llllllllllllllllhlll
+3-8 m: mtrnwmdmmq
+15-16 n: nnnnnnnnnnnnnnrcnnn
+9-11 w: wfwwwwctwwq
+7-10 b: bbbsbbbbbbkbbbb
+12-18 k: thxrfrwhzxhfpnjqkk
+3-4 f: wffs
+1-4 t: tmvktrpdt
+5-8 k: kkkkskkw
+9-12 w: wgwwwwwwwwwww
+6-7 r: rrrprfc
+2-4 g: gxgk
+9-12 p: hjpppppppphb
+7-11 f: fffffffvfffff
+1-4 r: bclrhrqlpjmrv
+7-15 s: lgrsrpskbgsmqgw
+8-14 j: jhqfjjjjjjjjjjj
+10-11 d: dddddgfdddddd
+3-4 j: gjrm
+1-5 x: xgvwrx
+2-11 r: lrxrzvplwxq
+5-10 f: xffffffffff
+3-4 g: ssgrflgvgg
+9-18 d: dlrqctvdrdcddrxjbd
+2-5 p: pppppp
+2-4 l: fscks
+2-18 v: pgvgxwwljphbkfwlhv
+1-3 h: xdmnfptbgghqbzvrd
+13-16 q: sqqqqqqqqqqqqqjq
+4-6 v: vvvvtv
+11-16 b: bbbbbvbbbbblpbmbb
+9-15 l: vcqwdtfblfwxpqv
+2-5 c: cfccm
+4-5 g: ggglvzgpg
+6-7 w: wwwdwgwfkwnkw
+3-4 d: dsbd
+7-8 g: ggfggghg
+2-10 x: xxxxxnxkxflmxxjxxx
+5-7 h: pthdhsz
+3-7 p: xcndbvbbh
+9-11 n: nhnnnqnnlcwnn
+3-4 p: pbpp
+2-5 h: hshhz
+9-13 g: grkngqlwbkrjn
+14-19 r: rrrrrrrrrrrrrrgrrrrr
+2-3 r: krtcfphwm
+9-10 v: vwvvvvvwsvvqvv
+2-5 b: kbmgpbrn
+4-7 l: lzlmlltll
+13-17 w: wwwwwwwwwwwwcwwwpw
+1-3 q: qtqh
+1-3 v: fxbcv
+6-11 v: vvvxvvvmbvpvh
+5-18 s: ssxpkssmgnssssldsvss
+11-13 q: qqqqqqsqfqqqq
+1-7 r: wrprrjvrrrrwrrrr
+13-17 q: qqqqqqtqqqqqmqqqq
+12-13 f: ftwffffftfxffqtbxfff
+12-16 r: tzqrqrwlnrrhkpgn
+5-6 p: pppbgpp
+9-10 r: rgrrxnrrrr
+16-17 d: dxkfdrdtmdlchlddd
+7-9 k: kkkktkkkkk
+6-8 p: pppppppc
+11-17 j: jjjjjjjjjjjjjjjjjjjj
+8-9 q: qqqqkccwmqjqqq
+7-10 c: cccflcccccjsh
+3-18 k: dbzgrzqppcvkkjmskpr
+2-9 v: rvwbhvhpwjmf
+6-10 s: swhsspsshc
+1-3 n: nnnt
+13-14 s: dzqvjztkgsnbsbs
+1-5 n: nnsnnnn
+9-17 v: vvvzvvvvqvvxvvzvpv
+7-10 m: gdqmmhmxmt
+6-12 d: dfdkrvjdwbgg
+1-8 q: qqfqtqtq
+8-9 n: nnnnsnnhmn
+2-4 p: pwpz
+2-5 r: wlzzk
+4-6 z: zplxzzz
+6-11 s: sssssrssssx
+16-18 t: ttvttttwtttttttvtlbt
+1-12 r: rgsrkfgmrbbbhcrtr
+11-15 n: pgqnnnnnnsnfwnw
+2-4 b: dthd
+5-10 r: xkllrwxbvrrbtlk
+17-19 w: wwwwwwwwwwwwwwwwwwv
+5-7 t: ztcsdtqts
+1-5 b: vbfbd
+6-12 g: kzggwgcgggthglgmg
+14-15 l: xlhlglllllsllmvdllll
+1-6 l: lglldglpqlxr
+9-10 p: wpppqpptppppnp
+2-20 s: ghrpccsrgqzgrcbqhjjb
+2-15 f: fnfflfmgfbwhfwffdtd
+1-2 v: vbpcktv
+15-16 r: rrrrjvsqjrvrjntdrd
+14-18 z: zzzzzzzzzzzzzqzzzk
+12-16 h: hhhhhhhhhhhhhhhhhl
+17-18 b: hbbfjdblmbnbgsbcdwg
+3-5 b: xnbbbtb
+3-10 x: xqxmxrvsxxwxth
+4-6 q: qqqqqqq
+8-9 r: rrrrrrrrr
+12-16 q: qrqqqzgxcqqrqqxv
+10-11 p: rppppppphtndp
+2-7 h: zhhpjkhvplbr
+13-15 l: llllllllllllllp
+15-18 k: kkkkkkkkkkkkkkkkkk
+2-4 g: ggjgl
+3-7 g: xpnjmsgtgqmxn
+1-2 k: kcgktft
+9-10 j: jjjjjjjqjjj
+2-7 b: fbbbbbbbbthbwc
+3-7 j: phpptgrjppxw
+8-9 m: qrgmtmbqhrx
+8-10 l: hldllllzblllllvd
+11-18 b: bmbbbtnwtbpbhdfwzz
+1-5 h: hthbhsplh
+2-6 g: wxgtvtcznqf
+4-5 s: sssss
+2-3 f: ffffff
+3-4 k: krtm
+2-7 q: qqlbcqqq
+4-5 f: fffffwnh
+6-8 k: lkwkkpkk
+11-12 t: kchhtptngttttgtl
+18-19 m: mmmmmmzmmmfmmmmmmscm
+8-10 n: znsnmrnrnnmf
+1-12 v: vdjkjhvwbbbrnz
+1-2 k: rkjsrzkckvkbzzd
+5-6 d: dwdddzd
+7-8 d: ddddwddddj
+8-9 w: wwwwwwwxww
